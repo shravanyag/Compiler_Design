@@ -1,0 +1,8 @@
+Parser in C for Even Number of A's
+The C file - parser.c is a parser to check whether a given string could be parsed by the grammar:
+S -> aSa | aa
+(Even number of a's)
+Input : Number of a's (We do not require the string as the character set of the language is limited to a only)
+Output :  1) A step by step display of the parse tree
+          2) A message indicating if the given number of a's can be parsed or not
+Implementation : The given parser.c includes detailed comments of the same
