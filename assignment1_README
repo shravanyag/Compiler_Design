@@ -1,4 +1,5 @@
 Parser in C for Even Number of A's
+
 The C file - parser.c is a parser to check whether a given string could be parsed by the grammar:
 S -> aSa | aa
 (Even number of a's)
