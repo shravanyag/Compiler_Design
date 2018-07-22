@@ -1,0 +1,49 @@
+missing ';'
+
+______________________________________________________
+
+AST Successfully Created!!!
+
+															level : 1 [[ Start | #include<stdio.h> |  ]	]
+
+														level : 2 [[ Global Sequence |  |  ]	]
+
+													level : 3 [[ Function Definition | int fun | int  ]	[ Global Sequence |  |  ]	]
+
+												level : 4 [[ Function Definition | void try | int int  ]	[ Global Sequence |  |  ]	]
+
+											level : 5 [[ Function Definition | void fun2 | no params ]	[ Global Sequence |  |  ]	]
+
+										level : 6 [[ Function Definition | int fun3 | no params ]	[ Global Sequence |  |  ]	]
+
+									level : 7 [[ Function Definition | void try1 | no params ]	[ Global Sequence |  |  ]	]
+
+								level : 8 [[ Declaration | int |  ]	[ Main |  |  ]	]
+
+							level : 9 [[ varlist | g |  ]	[ Sequence |  |  ]	[ Functions | Closure Sequence |  ]	]
+
+						level : 10 [[ Declaration | int |  ]	[ Sequence |  |  ]	[  |  |  ]	]
+
+					level : 11 [[ = | a | 10 ]	[ Declaration | int |  ]	[ Sequence |  |  ]	[ Function Sequence |  |  ]	]
+
+				level : 12 [[ = | e | 200 ]	[ = | g | 1 ]	[ Sequence |  |  ]	[ Sequence |  |  ]	[ Sequence |  |  ]	]
+
+			level : 13 [[ selection |  |  ]	[ Sequence |  |  ]	[ Declaration | void |  ]	[ Sequence |  |  ]	[ Declaration | int |  ]	[ Sequence |  |  ]	]
+
+		level : 14 [[ if |  |  ]	[ else |  |  ]	[ call | g |  ]	[ error | semicolon missing |  ]	[ = | s | 10 ]	[ = | s | 20 ]	[ = | s | 20 ]	[ = | r | 7 ]	[ Declaration | int |  ]	[ Sequence |  |  ]	]
+
+	level : 15 [[ cond | -1 |  ]	[ Sequence |  |  ]	[ Sequence |  |  ]	[ varlist | g |  ]	[ = | x | -1 ]	[ = | g | 5 ]	[ = | g | 5 ]	]
+
+level : 16 [[ selection |  |  ]	[ selection |  |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	]
+
+level : 17 [[ if |  |  ]	[ else |  |  ]	[ if |  |  ]	[ else |  |  ]	[ = | h | -1 ]	[ = | h | -1 ]	]
+
+level : 18 [[ cond | -1 |  ]	[ Sequence |  |  ]	[ Sequence |  |  ]	[ cond | -1 |  ]	[ Sequence |  |  ]	[ Sequence |  |  ]	]
+
+level : 19 [[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	[ Declaration | int |  ]	]
+
+level : 20 [[ = | z | -1 ]	[ = | z | -1 ]	[ = | y | -1 ]	[ = | y | -1 ]	[ = | z | -1 ]	[ = | z | -1 ]	[ = | y | -1 ]	[ = | y | -1 ]	]
+
+
+______________________________________________________
+
